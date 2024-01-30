@@ -340,8 +340,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   authType: 1
   hostAddress: arenaxr.org
-  namespaceName: 
-  sceneName: example
+  namespaceName: johnchoi
+  sceneName: UnityTester
   renderCameras: 1
   drawControllerRays: 0
   logMqttObjects: 0
